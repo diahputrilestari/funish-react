@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # funish-react
 template funish html in reactjs
->>>>>>> 43451cee67809a028ddd6f31afda0cfc0ed91be3
