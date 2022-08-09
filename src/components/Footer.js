@@ -85,7 +85,7 @@ export default class Footer extends Component {
 					            <div className="row">
 					                <div className="col-lg-12">
 					                    <div className="copyright text-center">
-					                        <p>Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
+					                        <p>Crafted by <a href="https://uideck.com" rel="nofollow">All Meubel</a></p>
 					                    </div> {/*<!-- copyright -->*/}
 					                </div>
 					            </div> {/*<!-- row -->*/}
